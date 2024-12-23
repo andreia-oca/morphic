@@ -144,7 +144,7 @@ Host your own live version of Morphic with Vercel, Genezio or Cloudflare Pages.
 
 Host Morphic with [Genezio](https://genezio.com/) in just one click:
 
-[![Genezio Deploy](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https%3A%2F%2Fgithub.com%2Fmiurla%2Fmorphic&env_vars=OPENAI_API_KEY,TAVILY_API_KEY,UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN)
+[![Genezio Deploy](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https%3A%2F%2Fgithub.com%andreia-oca%2Fmorphic&env_vars=OPENAI_API_KEY,TAVILY_API_KEY,UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN,SEARXNG_SECRET)
 
 ### Vercel
 
